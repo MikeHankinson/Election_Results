@@ -13,16 +13,16 @@ Contracted by the Colorado Board of Elections to develop an automated auditing s
 
 
 
-##Resources
+## Resources
 
 
 
-##Summary
+## Summary
 
 Using Python, generate vote count report to certify local election. ...
 
 
-##Challenge Overview
+## Challenge Overview
 
 
-##Challenge Summary
+## Challenge Summary
