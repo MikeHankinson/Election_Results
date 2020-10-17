@@ -9,6 +9,7 @@ Contracted by the Colorado Board of Elections to develop an automated auditing s
   3. Calculate and report the total number of votes each candidate received.
   4. Calculate and report the percentage of votes each candidate received.
   5. Determine and report the winner of the election based upon popular vote.
+  6. Calculate the 
 
 
 
