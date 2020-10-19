@@ -27,13 +27,9 @@ Software:  Python (3.7.6) and Visual Studio Code (1.50.1)
 Using Python, generate vote count report to certify local election. ...
 
 
-
 ============================================================
 ## Appendix A: Election Audit Readout
-![election_analysis.txt]( https://github.com/MikeHankinson/Election_Results/blob/main/analysis/election_analysis.txt)
-
-
-
+![election_analysis](https://github.com/MikeHankinson/Election_Results/blob/main/analysis/election_analysis.PNG)
 
 
 ## Appendix B: Python Code
