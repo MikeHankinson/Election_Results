@@ -1,4 +1,4 @@
-# Election_Results
+# Election Results
  
 ## Project Overview
 Contracted by the Colorado Board of Elections to develop an automated auditing system to certify the results of a recent local congressional election.  Project deliverables include the following:  
@@ -19,20 +19,17 @@ Software:  Python (3.7.6) and Visual Studio Code (1.50.1)
 
 
 ## Election Audit Results
+The following printout provides the election results in the required format: 
 
-
-
-
-## Election Audit Summary
-Using Python, generate vote count report to certify local election. ...
-
-
-============================================================
-## Appendix A: Election Audit Readout
 ![election_analysis](https://github.com/MikeHankinson/Election_Results/blob/main/analysis/election_analysis.PNG)
 
 
-## Appendix B: Python Code
+## Election Audit Summary
+Python coding was used to extract polling data and generate election results in a simple and concise manner.  The audit confirmed previous methodology and is recommended to be scaled to additional elections.  In order to successfully accomplish scale-up, data must be tabulated in similar format. Otherwise, coding must be modified to properly extract data.  In addition, multiple libraries need to be built and maintained containing data from the various counties and municipalities.  Data structures and security measures must be established prior to program roll-out.  
+
+
+============================================================
+## Appendix A: Python Code
 [PyPoll_Challenge.py]( https://github.com/MikeHankinson/Election_Results/blob/main/PyPoll_Challenge.py)
 
 
